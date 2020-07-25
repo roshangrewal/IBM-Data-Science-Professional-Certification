@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 
-<img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/d9/0d7c51354a48d2af08be185b6dcbc2/IBM-Logo-White.png" alt="IBM Data Science Professional Certificate" height="260" width="800">
+<img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" alt="IBM Data Science Professional Certificate" height="260" width="800">
 
 ## Kickstart your Career in Data Science & ML. Master data science, learn Python & SQL, analyze & visualize data, build machine learning models.
 <hr>
